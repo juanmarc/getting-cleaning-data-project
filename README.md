@@ -1,8 +1,8 @@
-# Getting and Cleanind Data Course Project
+# Getting and Cleaning Data Course Project
 
 ## Overview
 
-This repo contains code and data satisfying requirements for the Coursera Getting and Cleanng Data course project.
+This repo contains code and data satisfying requirements for the Coursera Getting and Cleaning Data course project.
 
 All data for this project were obtained from the University of California Irvine Machine learning website:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
@@ -24,11 +24,11 @@ The code contained in this repo (namely the run_analysis.r code) will perform th
 
 ### run_analysis.r
 
-The file run_analsys.r is the code/script that will download, if necessary, and process the input data according the course project requirements.
+The file run_analysis.r is the code/script that will download, if necessary, and process the input data according the course project requirements.
 
 ### tidyData.txt
 
-The file tidData.txt is the tidy data set from requirement 5 above
+The file tidyData.txt is the tidy data satisfying requirement 5 above
 
 ### codeBook.md
 
