@@ -38,7 +38,7 @@ The file tidyData.txt is the tidy data satisfying requirement 5 above
 
 ### codeBook.md
 
-The code book that profile additional info on the data fields in tidyData.txt.
+The code book that provides additional info on the data fields in tidyData.txt.
 
 ### README.md
 
