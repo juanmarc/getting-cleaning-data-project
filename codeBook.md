@@ -32,7 +32,7 @@ These signals were used to estimate variables of the feature vector for each pat
 
 ## Features Contained in tidyData.txt
 
-For our dataset, only a the following subset of features are included:
+For our dataset, only the following subset of features are included:
 
 * `tBodyAcc-mean()-X`
 * `tBodyAcc-mean()-Y`              
